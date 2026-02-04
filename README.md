@@ -1,6 +1,6 @@
 # TheSnehalaPortfolio 🚀
 
-> **Check out my live portfolio here:** [_____(website link)_____](https://_____)
+> **Check out my live portfolio here:** [the-snehala-portfolio.vercel.app](https://the-snehala-portfolio.vercel.app)
 
 <div align="center">
 
